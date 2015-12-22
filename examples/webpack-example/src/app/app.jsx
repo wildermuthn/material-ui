@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 (function () {
   let React = require('react/addons');
   let injectTapEventPlugin = require('react-tap-event-plugin');
@@ -17,3 +18,9 @@
   React.render(<Main />, document.body);
 
 })();
+=======
+import All from 'material-ui/lib/index';
+
+window.material = All;
+
+>>>>>>> Stashed changes
